@@ -1,0 +1,14 @@
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/WhileLoopExamples/bin/Debug/net8.0/WhileLoopExamples
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/WhileLoopExamples/bin/Debug/net8.0/WhileLoopExamples.deps.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/WhileLoopExamples/bin/Debug/net8.0/WhileLoopExamples.runtimeconfig.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/WhileLoopExamples/bin/Debug/net8.0/WhileLoopExamples.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/WhileLoopExamples/bin/Debug/net8.0/WhileLoopExamples.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/WhileLoopExamples/obj/Debug/net8.0/WhileLoopExamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/WhileLoopExamples/obj/Debug/net8.0/WhileLoopExamples.AssemblyInfoInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/WhileLoopExamples/obj/Debug/net8.0/WhileLoopExamples.AssemblyInfo.cs
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/WhileLoopExamples/obj/Debug/net8.0/WhileLoopExamples.csproj.CoreCompileInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/WhileLoopExamples/obj/Debug/net8.0/WhileLoopExamples.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/WhileLoopExamples/obj/Debug/net8.0/refint/WhileLoopExamples.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/WhileLoopExamples/obj/Debug/net8.0/WhileLoopExamples.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/WhileLoopExamples/obj/Debug/net8.0/WhileLoopExamples.genruntimeconfig.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/WhileLoopExamples/obj/Debug/net8.0/ref/WhileLoopExamples.dll
